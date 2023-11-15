@@ -1,0 +1,11 @@
+Vinton Gray Cerf (1943-) 
+
+He is an American Internet pioneer and is recognized as one of "the fathers of the Internet", sharing this title with TCP/IP co-developer Bob Kahn. 
+He has received honorary degrees and awards that include the National Medal of Technology, the Turing Award, the Presidential Medal of Freedom, the Marconi Prize, and membership in the National Academy of Engineering.
+Cerf received a Bachelor of Science degree in mathematics from Stanford University. After college, Cerf worked at IBM as a systems engineer supporting QUIKTRAN for two years. 
+Cerf and his wife Sigrid both have hearing deficiencies; they met at a hearing aid agent's practice in the 1960s, which led him to becoming an advocate for accessibility. They would later join a Methodist church and have two sons, David and Bennett. 
+He left IBM to attend graduate school at the University of California, Los Angeles, where he earned his M.S. degree in 1970 and his PhD in 1972. Cerf studied under Professor Gerald Estrin and worked in Professor Leonard Kleinrock's data packet networking group that connected the first two nodes of the ARPANET, the first node on the Internet, and "contributed to a host-to-host protocol" for the ARPANET. 
+While at UCLA, Cerf met Bob Kahn, who was working on the ARPANET system architecture. Cerf chaired the International Networking Working Group. He wrote the first TCP protocol with Yogen Dalal and Carl Sunshine, called Specification of Internet Transmission Control Program (RFC 675), published in December 1974. 
+Cerf worked as assistant professor at Stanford University from 1972 to 1976 where he conducted research on packet network interconnection protocols and co-designed the DoD TCP/IP protocol suite with Kahn. 
+
+Source: https://en.wikipedia.org/wiki/Vint_Cerf

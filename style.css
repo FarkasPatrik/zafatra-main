@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+  }
+
+.douglas {
+  font-size: 40px;
+}
+.style1 {
+  font-size: 966666px;
+ letter-spacing: 2px;
+}
+<<<<<<< HEAD
+.btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+
+}
+.btn:hover {
+  background-color: #3e8e41;
+  color: white;
+=======
+.cim {
+  background: url(háttér1.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 225px;
+}
+
+a {
+  padding: 0 35px;
+}
+.button {
+  float: right;
+>>>>>>> fb1057015ebb54ce49a26e088fe5050e93fd3781
+}

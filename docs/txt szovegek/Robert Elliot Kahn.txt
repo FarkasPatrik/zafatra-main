@@ -1,0 +1,11 @@
+Robert Elliot Kahn (1938-) 
+He is an American electrical engineer who, along with Vint Cerf, first proposed the Transmission Control Protocol (TCP) and the Internet Protocol (IP), the fundamental communication protocols at the heart of the Internet.
+In 2004, Kahn won the Turing Award with Vint Cerf for their work on TCP/IP.
+While working on the SATNET satellite packet network project, he came up with the initial ideas for what later became the Transmission Control Protocol (TCP), which was intended as a replacement for an earlier network protocol, NCP, used in the ARPANET. TCP played a major role in forming the basis of open-architecture networking, which would allow computers and networks all over the world to communicate with each other, regardless of what hardware or software the computers on each network used. To reach this goal, TCP was designed to have the following features:
+•	Small sub-sections of the whole network would be able to talk to each other through a specialized computer that only forwarded packets (first called a gateway, and now called a router).
+•	No portion of the network would be the single point of failure, or would be able to control the whole network.
+•	Each piece of information sent through the network would be given a sequence number, to ensure that they were dealt with in the right order at the destination computer, and to detect the loss of any of them.
+•	A computer which sent information to another computer would know that it was successfully received when the destination computer sent back a special packet, called an acknowledgement (ACK), for that particular piece of information.
+•	If information sent from one computer to another was lost, the information would be retransmitted, after the loss was detected by a timeout, which would recognize that the expected acknowledgement had not been received.
+•	Each piece of information sent through the network would be accompanied by a checksum, calculated by the original sender, and checked by the ultimate receiver, to ensure that it was not damaged in any way en route.
+Source: https://en.wikipedia.org/wiki/Bob_Kahn

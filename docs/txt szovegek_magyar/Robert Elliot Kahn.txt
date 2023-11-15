@@ -1,0 +1,11 @@
+Robert Elliot Kahn (1938-)
+Ő egy amerikai villamosmérnök, aki Vint Cerf mellett elsőként javasolta a Transmission Control Protocolt (TCP) és az Internet Protocolt (IP), az alapvető kommunikációs protokollokat az internet szívében.
+2004-ben Kahn elnyerte a Turing-díjat Vint Cerffel a TCP/IP-n végzett munkájukért.
+A SATNET-műholdas csomaghálózati projekten dolgozva előállt a kezdeti ötletekkel a későbbi Transmission Control Protocol (TCP) néven, amelyet az ARPANET-ben használt korábbi hálózati protokoll, az NCP helyettesítésére szántak. A TCP nagy szerepet játszott a nyílt architektúrájú hálózatépítés alapjainak kialakításában, amely lehetővé tette a számítógépek és hálózatok közötti kommunikációt a világ minden táján, függetlenül attól, hogy az egyes hálózatok számítógépei milyen hardvert vagy szoftvert használtak. E cél elérése érdekében a TCP-t úgy tervezték, hogy a következő funkciókkal rendelkezzen:
+• A teljes hálózat kis részei képesek lennének beszélni egymással egy speciális számítógépen keresztül, amely csak csomagokat továbbított (először átjárónak, ma pedig útválasztónak hívják).
+• A hálózat egyetlen része sem lenne egyetlen hibapont, vagy nem lenne képes az egész hálózatot irányítani.
+• Minden, a hálózaton keresztül küldött információ sorszámot kapna annak érdekében, hogy a célszámítógépen a megfelelő sorrendben kezeljék azokat, és észleljék bármelyikük elvesztését.
+• Az a számítógép, amely információt küldött egy másik számítógépnek, akkor tudja, hogy sikeresen fogadta, amikor a célszámítógép egy speciális csomagot, úgynevezett nyugtázást (ACK) küld vissza az adott információra vonatkozóan.
+• Ha az egyik számítógépről a másikra küldött információ elveszett, az információ újraküldésre kerül, miután a veszteséget egy időtúllépés észlelte, amely felismeri, hogy a várt visszaigazolás nem érkezett meg.
+• A hálózaton keresztül küldött minden információhoz egy ellenőrző összeget kell csatolni, amelyet az eredeti küldő számít ki, és a végső fogadó ellenőriz, hogy az útközben ne sérüljön meg.
+Source: https://en.wikipedia.org/wiki/Bob_Kahn

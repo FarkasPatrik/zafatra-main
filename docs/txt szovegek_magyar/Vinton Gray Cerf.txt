@@ -1,0 +1,11 @@
+Vinton Gray Cerf (1943-) 
+
+Ő az amerikai internet úttörője, és az "internet atyja" közé tartozik, megosztva ezzel a címmel Bob Kahn TCP/IP társfejlesztővel.
+Tiszteletbeli okleveleket és kitüntetéseket kapott, amelyek közé tartozik a National Medal of Technology, a Turing-díj, a Presidential Medal of Freedom, a Marconi-díj, valamint a National Academy of Engineering tagja.
+Cerf matematikából szerzett Bachelor of Science fokozatot a Stanford Egyetemen. A főiskola után Cerf két évig QUIKTRAN-t támogató rendszermérnökként dolgozott az IBM-nél.
+Cerfnek és feleségének, Sigridnek is hallászavarai vannak; az 1960-as években találkoztak egy hallókészülék-ügynök praxisában, aminek következtében az akadálymentesítés szószólója lett. Később csatlakoztak egy metodista gyülekezethez, és két fiuk született, David és Bennett.
+Otthagyta az IBM-et, hogy a Los Angeles-i Kaliforniai Egyetemen járjon posztgraduális iskolába, ahol megszerezte az M.S. Cerf Gerald Estrin professzor irányítása alatt tanult, és Leonard Kleinrock professzor adatcsomag-hálózati csoportjában dolgozott, amely összekapcsolta az ARPANET első két csomópontját, az első csomópontot az interneten, és "hozzájárult egy gazdagéphez -host protokoll" az ARPANET számára.
+Az UCLA-n Cerf találkozott Bob Kahnnal, aki az ARPANET rendszerarchitektúrán dolgozott. Cerf a Nemzetközi Hálózati Munkacsoport elnöke volt. Ő írta az első TCP protokollt Yogen Dalallal és Carl Sunshine-nal, Specification of Internet Transmission Control Program (RFC 675) néven, amelyet 1974 decemberében tettek közzé.
+Cerf adjunktusként dolgozott a Stanford Egyetemen 1972 és 1976 között, ahol kutatásokat végzett a csomaghálózati összekapcsolási protokollokkal kapcsolatban, és Kahnnal közösen megtervezte a DoD TCP/IP protokollcsomagot.
+
+Source: https://en.wikipedia.org/wiki/Vint_Cerf

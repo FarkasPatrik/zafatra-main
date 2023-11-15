@@ -1,0 +1,4 @@
+Robert "Bob" Melancton Metcalfe (1946-)
+He is an American engineer and entrepreneur who contributed to the development of the internet in the 1970s. He co-invented Ethernet, co-founded 3Com, and formulated Metcalfe's law, which describes the effect of a telecommunications network. Metcalfe has also made several predictions which failed to come to pass, including forecasting the demise of the internet during the 1990s.
+Metcalfe has received various awards, including the IEEE Medal of Honor and National Medal of Technology and Innovation for his work developing Ethernet technology. In 2023, he received the Turing Award, the highest distinction in computer science. From 2011 to 2021, he was professor of innovation and entrepreneurship at the University of Texas at Austin.
+Source: https://en.wikipedia.org/wiki/Robert_Metcalfe

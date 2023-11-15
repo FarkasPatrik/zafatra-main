@@ -1,0 +1,4 @@
+<h1>Az internet jövője</h1>
+<p>Az internet sokáig fog fejlődni még, egyre újabb és újabb technikák lesznek amik segíthetik az emberiséget viszont mint ahogy a Terminátorban volt, hogy a gépek fellázadtak az emberek ellen.</p>
+<br>
+<img src="terminator.webp">
